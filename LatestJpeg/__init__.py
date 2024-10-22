@@ -1,0 +1,1 @@
+from .LatestJpg import LatestJpg
